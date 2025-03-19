@@ -4,7 +4,7 @@ This is the public code related to “Live-stream Infrared Perception: Two-stage
 To guarantee the safe functioning of batteries, it is essential to monitor their operational status. Nevertheless, there is mutual obstruction between battery cells because of the close arrangement inside the battery pack, which makes it extremely difficult to localize thermal faults. Therefore, this article proposes a two-stage thermal characterization and localization for lithium-ion batteries, which achieves accurate end-to-end positioning of thermal fault cells. Camera rotation allows for multiple perspectives of the battery pack's surface thermal in real time, avoiding the blockage issue that single-perspective cameras present. Stage 1 is based on Detection Transformer (DETR), which achieves coarse characterization of targets by video instance query and frame target tracking. The 3D incoherent region detector set in stage 2 achieved mask fine-adjustment through a point quadtree, which precisely localizes faulty battery cells. Testing the battery model created with Ansys Fluent revealed that the diagnostic system's mAP and mAR values were higher than 0.7.
 
 <div align=center>
-![image](https://github.com/user-attachments/assets/24db28c3-3f91-4015-bd46-e29177ebec00)
+<image src="https://github.com/user-attachments/assets/24db28c3-3f91-4015-bd46-e29177ebec00">
 </div>  
 
 This article primarily contributes by:
