@@ -13,5 +13,5 @@ This article primarily contributes by:
 3. A rotating camera covers the battery pack's 3D location information to monitor its global surface temperature in real-time from numerous perspectives, which avoids battery cell obstruction in single-point cameras and offers better fault localization.
 4. To simulate heat generation from internal short circuit faults in 1P3S lithium-ion batteries, Ansys Fluent software is used to perform finite volume analysis and acquire surface thermal images. Image processing verifies the algorithm's capability.
 
-The remaining part (including pre-trained weight, datasets, install method) will be upload soon. Thank you.
+The remaining part (including pre-trained weight, install method) will be upload soon. Thank you.
 
